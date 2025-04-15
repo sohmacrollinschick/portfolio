@@ -1,0 +1,44 @@
+body{
+    background-image: url(image/202.webp);
+    
+}
+#navbar a {
+    display: relative;
+    font-size: 25px;
+    color:blue;
+    text-decoration: none;
+    font-weight: 600;
+}
+#navbar a {
+    display:inline-block;
+    font-size: 25px;
+    color: blue;
+    text-decoration: none;
+    font-weight: 500;
+    margin-inline:120px;
+    transition: .35s;
+    
+}
+#navbar a:hover{
+    color:black;
+}
+.h1
+{
+    color: blue;
+}
+
+   
+.p
+{
+    font-size: 20px;
+}
+.image{
+    position: relative;
+    left: 1100px;
+    bottom: 500px;
+}
+.div{
+    position: relative;
+    right: 0px;
+    bottom: 600px;
+}
